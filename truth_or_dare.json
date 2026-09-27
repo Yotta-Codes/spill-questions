@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-27",
+  "questions": [
+    { "id": 1, "type": "truth", "level": "mild", "text": "What's your biggest fear?" },
+    { "id": 2, "type": "dare", "level": "mild", "text": "Do 10 push-ups right now." },
+    { "id": 3, "type": "truth", "level": "spicy", "text": "..." }
+  ]
+}
